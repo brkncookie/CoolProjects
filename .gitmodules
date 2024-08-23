@@ -1,0 +1,3 @@
+[submodule "mini-le-shell"]
+	path = mini-le-shell
+	url = git@github.com:brkncookie/mini-le-shell.git
