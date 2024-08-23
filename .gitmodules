@@ -10,3 +10,6 @@
 [submodule "dependency_analyzer"]
 	path = dependency_analyzer
 	url = git@github.com:brkncookie/dependency_analyzer.git
+[submodule "minitalk"]
+	path = minitalk
+	url = git@github.com:brkncookie/minitalk.git
