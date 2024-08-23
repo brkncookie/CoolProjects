@@ -7,3 +7,6 @@
 [submodule "pm_junior"]
 	path = pm_junior
 	url = git@github.com:brkncookie/pm_junior.git
+[submodule "dependency_analyzer"]
+	path = dependency_analyzer
+	url = git@github.com:brkncookie/dependency_analyzer.git
