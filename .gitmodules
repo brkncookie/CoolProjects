@@ -31,3 +31,6 @@
 [submodule "ft_transcendence"]
 	path = ft_transcendence
 	url = git@github.com:brkncookie/ft_transcendence.git
+[submodule "simpleloggingscript"]
+	path = simpleloggingscript
+	url = git@github.com:brkncookie/SimpleLogginScript.git
