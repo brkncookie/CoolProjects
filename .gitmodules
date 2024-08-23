@@ -4,3 +4,6 @@
 [submodule "ft_irc"]
 	path = ft_irc
 	url = git@github.com:brkncookie/ft_irc.git
+[submodule "pm_junior"]
+	path = pm_junior
+	url = git@github.com:brkncookie/pm_junior.git
