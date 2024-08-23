@@ -22,3 +22,6 @@
 [submodule "philosophers"]
 	path = philosophers
 	url = git@github.com:brkncookie/Philosophers.git
+[submodule "cpp_modules"]
+	path = cpp_modules
+	url = git@github.com:brkncookie/CPPMOD.git
